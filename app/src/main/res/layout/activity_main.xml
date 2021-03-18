@@ -41,8 +41,8 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="403dp"
-        android:layout_height="200dp"
+        android:layout_width="392dp"
+        android:layout_height="222dp"
         android:background="#FFC107"
         android:gravity="center"
         android:text="0"

@@ -1,6 +1,9 @@
 # First_Lab1
 ### App screenshot
-![](./portrait.jpg)
-![](./landscape.jpg)
-![](./helloToast.jpg)
-![](./count.jpg)
+![](./lab1a.jpg)
+### Landscape view
+![](./lab1b.jpg)
+### HelloToast message
+![](./lab1c.jpg)
+### Increase in Count
+![](./lab1d.jpg)
